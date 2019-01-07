@@ -1,0 +1,42 @@
+.title{
+  background-image: url("t-b.jpg");
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  color: #fff;
+}
+.title-header{
+  padding-top: 350px;
+  padding-bottom: 40px;
+  font-size: 6rem;
+}
+.navbar {
+  background: none;
+}
+.title-headerr{
+
+  font-size: 3rem;
+
+}
+.bro{
+  margin-bottom: 250px;
+  font-size: 2rem;
+}
+.bootm{
+  padding-top: 90px;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  font-size: 3rem;
+  background-color: #686868;
+  color: #fff;
+}
+.hoi{
+  font-size: 5rem;
+
+}
+.navbar-brand{
+font-size: 2rem;
+
+}
+.nav-link{
+  font-size: 2rem;
+}
